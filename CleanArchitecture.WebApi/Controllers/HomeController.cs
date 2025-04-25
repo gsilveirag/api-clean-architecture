@@ -1,8 +1,8 @@
-﻿using CleanArchMvc.WebApi.Models;
+﻿using CleanArchitecture.WebApi.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace CleanArchMvc.WebApi.Controllers
+namespace CleanArchitecture.WebApi.Controllers
 {
     public class HomeController : Controller
     {

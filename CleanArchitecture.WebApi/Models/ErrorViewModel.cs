@@ -1,4 +1,4 @@
-namespace CleanArchMvc.WebApi.Models
+namespace CleanArchitecture.WebApi.Models
 {
     public class ErrorViewModel
     {
