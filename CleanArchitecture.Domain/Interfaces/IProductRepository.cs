@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CleanArchitecture.Domain.Interfaces
 {
-    internal interface Interface1
+    internal interface IProductRepository
     {
     }
 }
